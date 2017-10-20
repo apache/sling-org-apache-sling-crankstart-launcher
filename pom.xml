@@ -25,8 +25,8 @@
     </description>
 
     <scm>
-      <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/crankstart/launcher</connection>
-      <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/crankstart/launcher</developerConnection>
+      <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-crankstart-launcher.git</conncetion>
+      <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-crankstart-launcher.git</developerConnection>
       <url>http://sling.apache.org</url>
     </scm>
 
