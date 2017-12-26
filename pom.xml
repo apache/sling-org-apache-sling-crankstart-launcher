@@ -48,6 +48,7 @@
     </scm>
 
     <properties>
+        <sling.java.version>6</sling.java.version>
         <pax.url.version>2.1.0</pax.url.version>
         <org.ops4j.pax.url.mvn.repositories/>
     </properties>
@@ -86,17 +87,8 @@
                     </execution>
                 </executions>
              </plugin>
-           <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
-                </configuration>
-            </plugin>
             <plugin>
                 <artifactId>maven-clean-plugin</artifactId>
-                <version>2.2</version>
                 <configuration>
                     <filesets>
                         <fileset>
@@ -178,7 +170,6 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
