@@ -187,7 +187,7 @@
         </dependency>
         <dependency>
             <groupId>org.apache.sling</groupId>
-            <artifactId>org.apache.sling.cransktart.test.model</artifactId>
+            <artifactId>org.apache.sling.crankstart.test.model</artifactId>
             <type>txt</type>
             <!-- TODO should also be <classifier>slingfeature</classifier> -->
             <version>${project.version}</version>
