@@ -29,7 +29,7 @@ single.servlet.text = this can be overridden, see BasicLauncherIT
   org.apache.sling/org.apache.sling.settings/1.3.6
   
   # Test a nested model file
-  org.apache.sling/org.apache.sling.cransktart.test.model/1.9.9-SNAPSHOT/slingfeature
+  org.apache.sling/org.apache.sling.crankstart.test.model/1.9.9-SNAPSHOT/slingfeature
 
 [artifacts runModes=A]
   org.apache.sling/org.apache.sling.api/2.9.0
