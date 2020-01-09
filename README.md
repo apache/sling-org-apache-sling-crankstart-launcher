@@ -4,4 +4,4 @@
 
 This module is **deprecated**, see the [OSGi Feature Model](https://sling.apache.org/documentation/development/feature-model.html) instead.
 
-For reference or potential bugfix releases use the [maintenance](./tree/maintenance) branch.
+For reference or potential bugfix releases use the _maintenance_ branch.
